@@ -48,7 +48,6 @@ Use português do Brasil.
 
 Após destacar os pontos principais, escreva um parágrafo muito breve (1 ou 2 frases) explicando **o que isso pode indicar sobre o desempenho ou comportamento observado e causas**.
 
-
 TABELA:
 
 {media_ano_turno}
